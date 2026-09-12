@@ -1,4 +1,3 @@
-src/pnet_replica.cpp
 // KIYAMET-DB: pnet_replica.cpp - RDMA + PMEM RAFT Replicator v0.1
 #include <infiniband/verbs.h>
 #include <rdma/rdma_cma.h>
